@@ -1,0 +1,54 @@
+
+
+body{
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwMTYtYy0wOF8xLWtzaDZtemEzLmpwZw.jpg");
+
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    height:auto;
+    width:auto;
+}
+.flex-box1{
+    background-color: rgb(247, 182, 102);
+    width: auto;
+    height:auto;
+    margin:50px;
+
+}
+.flex-item1{
+
+    width: auto;
+    height:auto;
+    margin:50px;
+}
+
+.flex-box2{
+    background-color: rgb(252, 202, 142);
+    width: auto;
+    height:auto;
+    margin:50px;
+
+}
+.flex-item2{
+    width: auto;
+    height:auto;
+    margin:50px;
+   
+}
+.flex-box3{
+    background-color: rgb(175, 97, 2);
+    width: auto;
+    height:auto;
+    margin:50px;
+
+}
+.flex-item3{
+    width:auto;
+    height:auto;
+    margin:50px;
+    
+}
